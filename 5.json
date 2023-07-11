@@ -12,7 +12,7 @@
 "update_isforce":true,  
 "update_isapk":true,  
 "update_title":"Update new version",  
-"update_content":"Update Your App Or Visite our homepage (vancedflix.com).
+"update_content":"You cant Start Watching if you are using this version. Update Your App And Start Streming.
 <br></br>
 <b>Release Info</b>
 <br>- Version: 9.0.9</br>
@@ -21,8 +21,8 @@
 <br><b>Change logs</b></br>
 <br>- Filter English movies and tv shows.</br>
 <br>- Add links. </br>",  
-"update_build":"9090",  
-"update_version":"9.0.9",  
+"update_build":"9099",  
+"update_version":"3.3.3",  
 "update_link":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",  
 "update_link_android4":"https://github.com/ysnlek/st/raw/main/VancedFlix_10.1.0V.apk",
 "pkg_uninstall":"com.medianet.gl",  
